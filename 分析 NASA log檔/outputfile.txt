@@ -1,0 +1,26 @@
+00:00~01:00 	user number 	20436
+01:00~02:00 	user number 	17409
+02:00~03:00 	user number 	14986
+03:00~04:00 	user number 	12400
+04:00~05:00 	user number 	10319
+05:00~06:00 	user number 	10362
+06:00~07:00 	user number 	11052
+07:00~08:00 	user number 	15891
+08:00~09:00 	user number 	22904
+09:00~10:00 	user number 	26733
+10:00~11:00 	user number 	30015
+11:00~12:00 	user number 	33386
+12:00~13:00 	user number 	34166
+13:00~14:00 	user number 	33574
+14:00~15:00 	user number 	34661
+15:00~16:00 	user number 	35364
+16:00~17:00 	user number 	34651
+17:00~18:00 	user number 	30650
+18:00~19:00 	user number 	25097
+19:00~20:00 	user number 	23057
+20:00~21:00 	user number 	22236
+21:00~22:00 	user number 	22453
+22:00~23:00 	user number 	22776
+23:00~24:00 	user number 	23205
+
+Total elapsed time in execution is : 21s 277ms

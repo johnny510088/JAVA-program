@@ -1,0 +1,1 @@
+Ports 1 ¡V 1023 are reserved for services such as HTTP, FTP, email, and Telnet.

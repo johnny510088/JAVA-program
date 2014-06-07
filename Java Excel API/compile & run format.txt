@@ -1,0 +1,7 @@
+和.jar一起編譯、執行的方法
+== Compile有兩種方法 ==
+javac -cp <jar you want to include>;<jar you want to include> <source.java> 
+javac -classpath <jar you want to include>;<jar you want to include> <source.java> 
+
+== Run ==
+
