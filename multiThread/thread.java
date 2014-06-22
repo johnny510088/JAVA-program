@@ -11,8 +11,8 @@ public class thread extends java.lang.Thread {
 	public void run(){// thread.start() will invoke run() 
 		try { 
 			while (true) {// make thread be executed forever ,only interrupt when force to stop 
-			Thread.sleep(waittime);//wait a few second and then execute the 
-			System.out.println(this.data); 
+				Thread.sleep(waittime);//wait a few second and then execute the 
+				System.out.println(this.data); 
 			} 
 		} catch (Exception e) { 
 			e.printStackTrace(); 
