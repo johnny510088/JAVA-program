@@ -1,6 +1,6 @@
 import java.net.*;
 
-public class Find_IP_Hostname{
+public class findIPHostname{
 	public static void  main(String arg[]) {
 		try{
 			InetAddress addr = InetAddress.getLocalHost();
